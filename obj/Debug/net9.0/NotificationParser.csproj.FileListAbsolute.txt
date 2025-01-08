@@ -1,0 +1,15 @@
+/home/vaneath/projects/NotificationParser/obj/Debug/net9.0/NotificationParser.GeneratedMSBuildEditorConfig.editorconfig
+/home/vaneath/projects/NotificationParser/obj/Debug/net9.0/NotificationParser.AssemblyInfoInputs.cache
+/home/vaneath/projects/NotificationParser/obj/Debug/net9.0/NotificationParser.AssemblyInfo.cs
+/home/vaneath/projects/NotificationParser/obj/Debug/net9.0/NotificationParser.csproj.CoreCompileInputs.cache
+/home/vaneath/projects/NotificationParser/obj/Debug/net9.0/NotificationParser.sourcelink.json
+/home/vaneath/projects/NotificationParser/bin/Debug/net9.0/NotificationParser
+/home/vaneath/projects/NotificationParser/bin/Debug/net9.0/NotificationParser.deps.json
+/home/vaneath/projects/NotificationParser/bin/Debug/net9.0/NotificationParser.runtimeconfig.json
+/home/vaneath/projects/NotificationParser/bin/Debug/net9.0/NotificationParser.dll
+/home/vaneath/projects/NotificationParser/bin/Debug/net9.0/NotificationParser.pdb
+/home/vaneath/projects/NotificationParser/obj/Debug/net9.0/NotificationParser.dll
+/home/vaneath/projects/NotificationParser/obj/Debug/net9.0/refint/NotificationParser.dll
+/home/vaneath/projects/NotificationParser/obj/Debug/net9.0/NotificationParser.pdb
+/home/vaneath/projects/NotificationParser/obj/Debug/net9.0/NotificationParser.genruntimeconfig.cache
+/home/vaneath/projects/NotificationParser/obj/Debug/net9.0/ref/NotificationParser.dll
