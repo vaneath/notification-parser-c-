@@ -4,9 +4,9 @@ using System.Text.RegularExpressions;
 
 namespace NotificationParser.Services
 {
-  class ParserService
+  public class ParserService
   {
-    private static readonly HashSet<string> ValidChannels = new HashSet<string> { "BE", "FE", "QA", "Urgent" };
+    private readonly HashSet<string> _validChannels = new HashSet<string> { "BE", "FE", "QA", "Urgent" };
 
     public string ParseNotificationChannels(string title)
     {
@@ -28,7 +28,7 @@ namespace NotificationParser.Services
       foreach (Match match in matches)
       {
         string tag = match.Groups[1].Value;
-        if (ValidChannels.Contains(tag))
+        if (_validChannels.Contains(tag))
         {
           channels.Add(tag);
         }
