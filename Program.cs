@@ -1,4 +1,5 @@
 ﻿using System;
+using NotificationParser.Services;
 
 namespace NotificationParser
 {
@@ -14,6 +15,11 @@ namespace NotificationParser
         Console.WriteLine("Title cannot be empty.");
         return;
       }
+
+      var parserService = new ParserService();
+      string result = parserService.ParseNotificationChannels(title);
+
+      Console.WriteLine(result);
     }
   }
 }
